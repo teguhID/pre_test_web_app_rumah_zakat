@@ -15,7 +15,7 @@ Dibangun menggunakan:
 3. 🗂 Zustand untuk state management
 4. 🧩 Atomic Design Pattern (atoms, molecules, organisms, templates, pages)
 
-🚀 Fitur Utama
+Fitur Utama
 
 1. Profile Page → menampilkan info user (email, telepon, foto, dsb)
 2. Anime Page
@@ -32,8 +32,7 @@ Dibangun menggunakan:
    - Desktop → sidebar kiri
    - Mobile → bottom navigation
 
-## 📂 Project Structure
-
+Project Structure
 /src
 ├─ /app
 │ ├─ /profile
@@ -64,9 +63,17 @@ Dibangun menggunakan:
 ├─ animeStore.ts
 └─ filmStore.ts
 
-⚙️ Instalasi
+Instalasi
 
 1. Clone repository
 2. Install dependencies (npm install)
 3. Run app (npm run dev)
 4. Open browser (http://localhost:3000)
+
+Screenshoot App
+
+![Alt Text](/src/assets/ss/1.png)
+![Alt Text](/src/assets/ss/2.png)
+![Alt Text](/src/assets/ss/3.png)
+![Alt Text](/src/assets/ss/4.png)
+![Alt Text](/src/assets/ss/5.png)
