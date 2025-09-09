@@ -33,35 +33,7 @@ Fitur Utama
    - Mobile → bottom navigation
 
 Project Structure
-/src
-├─ /app
-│ ├─ /profile
-│ │ └─ page.tsx
-│ ├─ /anime
-│ │ ├─ page.tsx
-│ │ └─ [id]/page.tsx
-│ └─ /film
-│ ├─ page.tsx
-│ └─ [id]/page.tsx
-│
-├─ /components
-│ ├─ /atoms
-│ │ └─ ImageDetailList.tsx
-│ ├─ /molecules
-│ │ └─ InfoDetailList.tsx
-│ ├─ /organisms
-│ │ ├─ FotoProfile.tsx
-│ │ └─ NameProfile.tsx
-│ └─ /templates
-│ ├─ CardList.tsx
-│ ├─ CardProfile.tsx
-│ ├─ DescProfile.tsx
-│ ├─ DetailList.tsx
-│ └─ HeaderProfile.tsx
-│
-└─ /store
-├─ animeStore.ts
-└─ filmStore.ts
+![Alt Text](/src/assets/ss/7.png)
 
 Instalasi
 
@@ -77,3 +49,4 @@ Screenshoot App
 ![Alt Text](/src/assets/ss/3.png)
 ![Alt Text](/src/assets/ss/4.png)
 ![Alt Text](/src/assets/ss/5.png)
+![Alt Text](/src/assets/ss/6.png)
