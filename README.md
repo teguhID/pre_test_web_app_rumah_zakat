@@ -10,10 +10,10 @@ untuk data Film
 
 Dibangun menggunakan:
 
-⚡ Next.js 15+ (App Router)
-🎨 Tailwind CSS
-🗂 Zustand untuk state management
-🧩 Atomic Design Pattern (atoms, molecules, organisms, templates, pages)
+1. ⚡ Next.js 15+ (App Router)
+2. 🎨 Tailwind CSS
+3. 🗂 Zustand untuk state management
+4. 🧩 Atomic Design Pattern (atoms, molecules, organisms, templates, pages)
 
 🚀 Fitur Utama
 
@@ -32,31 +32,7 @@ Dibangun menggunakan:
    - Desktop → sidebar kiri
    - Mobile → bottom navigation
 
-📂 Struktur Project
-/src
--/app
---/profile/page.tsx
---/anime/page.tsx
---/anime/[id]/page.tsx
---/film/page.tsx
---/film/[id]/page.tsx
--/components
---/atoms
----ImageDetailList.tsx
---/molecules
----InfoDetailList.tsx
---/organisms
----FotoProfile.tsx
----NameProfile.tsx
---/templates
----CardList.tsx
----CardProfile.tsx
----DescProfile.tsx
----DetailList.tsx
----HeaderProfile.tsx
--/store
---animeStore.ts
---filmStore.ts
+## 📂 Project Structure
 
 ⚙️ Instalasi
 
